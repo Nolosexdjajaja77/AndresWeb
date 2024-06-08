@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AndresWeb</title>
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a AndresWeb</h1>
+        <p>Aquí mostramos cosas bonitas</p>
+    </header>
+
+    <main>
+        <section id="video">
+            <h2>Mi Canal de YouTube</h2>
+            <!-- Aquí se incrusta el video de YouTube -->
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/wmbcrumyCqI?si=h0A9lbxbqWO2mJ_0" frameborder="0" allowfullscreen></iframe>
+        </section>
+
+        <section id="sobre-mi">
+            <h2>Sobre Mí</h2>
+            <!-- Aquí puedes poner diferentes cosas sobre ti en categorías -->
+            <ul>
+                <li>Información personal</li>
+                <p>Tengo 10 años.</p>
+                <p>Soy un amante de los Object shows.</p>
+                <img src="https://i.postimg.cc/TPnyndrr/descarga-13.jpg" alt="son muy buenos eso">
+                <li>Intereses</li>
+                <p>YouTube, me la paso horas viendo videos de YouTube.</p>
+                <p>El celular, obvio tenía que decirlo.</p>
+                <p>Si te gusta mi página no olvides darle cinco estrellas.</p>
+                <div class="rating">
+                    <input type="radio" id="star5" name="rating" value="5">
+                    <label for="star5"><img src="https://i.postimg.cc/Bbcmjfvp/descarga-3.png" alt="Estrella"></label>
+                    <input type="radio" id="star4" name="rating" value="4">
+                    <label for="star4"><img src="https://i.postimg.cc/Bbcmjfvp/descarga-3.png" alt="Estrella"></label>
+                    <input type="radio" id="star3" name="rating" value="3">
+                    <label for="star3"><img src="https://i.postimg.cc/Bbcmjfvp/descarga-3.png" alt="Estrella"></label>
+                    <input type="radio" id="star2" name="rating" value="2">
+                    <label for="star2"><img src="https://i.postimg.cc/Bbcmjfvp/descarga-3.png" alt="Estrella"></label>
+                    <input type="radio" id="star1" name="rating" value="1">
+                    <label for="star1"><img src="https://i.postimg.cc/Bbcmjfvp/descarga-3.png" alt="Estrella"></label>
+                </div>
+                <li>Hobbies</li>
+                <p>Me gusta dibujar cosas raras, pero no tan raras.</p>
+            </ul>
+        </section>
+
+        <section id="divertido">
+            <h2>Cosas Divertidas</h2>
+            <!-- Cosas que me gusta hacer y que me encantan -->
+            <p>¡Soy un amante de los gatos!</p>
+            <p>Me gustan mucho los personajes tiernos así como a ti te gusta esta página.</p>
+            <b>FIN.</b>
+        </section>
+    </main>
+    
+    <footer>
+        <p>Derechos de autor © 2024 AndresWeb</p>
+    </footer>
+
+    <p>Si esta página consigue 1000 visitas, hago La AndresWeb 2</p>
+    <div id="sfcdagy73151zjqjazta4t9k3nkp4h3jc2c"></div>
+    <script type="text/javascript" src="https://counter4.optistats.ovh/private/counter.js?c=dagy73151zjqjazta4t9k3nkp4h3jc2c&down=async" async></script>
+    <noscript>
+        <a href="https://www.freecounterstat.com" title="free hit counter">
+            <img src="https://counter4.optistats.ovh/private/freecounterstat.php?c=dagy73151zjqjazta4t9k3nkp4h3jc2c" border="0" title="free hit counter" alt="free hit counter">
+        </a>
+    </noscript>
+    <a href="https://www.freecounterstat.com" title="free hit counter">
+        <img src="https://counter4.optistats.ovh/private/freecounterstat.php?c=dagy73151zjqjazta4t9k3nkp4h3jc2c" border="0" title="free hit counter" alt="free hit counter">
+    </a>
+    <b>Contador de visitas, gracias por visitar La AndresWeb</b>
+</body
